@@ -13,3 +13,6 @@
 2) git commit -m " oque eu fiz no arquivo"
 3) git push
 4)  nano comandos-git.txt 
+
+-- Comando para ver o status do repositório
+1) git status
