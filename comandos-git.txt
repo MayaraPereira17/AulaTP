@@ -1,0 +1,15 @@
+-- Comandos para iniciar o repositório
+
+1) git init
+2) git brach -M main
+3) git  remote add origin https://github.com/MayaraPereira17/AulaTP.git
+4) git push -u origin main
+5) git config user.name "MayaraPereira17"
+6) git config user.email "mayaracapereira45@gmail.com"
+
+-- Comandos para adiocionar um arquivo
+
+1) git add .  ou  git add nome do arquivo
+2) git commit -m " oque eu fiz no arquivo"
+3) git push
+4)  nano comandos-git.txt 
